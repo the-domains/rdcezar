@@ -1,0 +1,28 @@
+name: rdcezar
+favicon: null
+layout_spectrum: 0.28821251005865633
+typography_spectrum: 0.6858239599969238
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.09724126267246902
+  lightness: 0.8568211854435503
+  saturation: 0.5440760063938797
+  rhythmicContrast: 0.9821864848490804
+purpose: []
