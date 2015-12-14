@@ -1,7 +1,7 @@
 name: rdcezar
 favicon: null
-layout_spectrum: 0.28821251005865633
-typography_spectrum: 0.6858239599969238
+layout_spectrum: 0.991
+typography_spectrum: 0.73987
 cta:
   domain: null
   bucket: null
@@ -21,8 +21,8 @@ color:
     - '#3F8EFC'
     - '#2667FF'
     - '#3B28CC'
-  brandStrength: 0.09724126267246902
-  lightness: 0.8568211854435503
-  saturation: 0.5440760063938797
-  rhythmicContrast: 0.9821864848490804
+  brandStrength: 0.5
+  lightness: 0.125
+  saturation: 1
+  rhythmicContrast: 0.75
 purpose: []
